@@ -36,7 +36,8 @@ ol, ul {list-style: none;}
 
     /* contents */
     #contents {text-align: center; color: #fff;}
-    #contents > div{height: 100vh; }
+    #contents > #section1{height: 100vh; }
+    #contents > div{height: 700px; padding: 50px 0;}
 
     /* section1 */
     #section1 {background:radial-gradient(ellipse farthest-corner at center top, #f39264 0%, #f2606f 100%); box-sizing: border-box;}
